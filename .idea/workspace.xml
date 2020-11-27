@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c4a2385-1d85-4dfe-9785-a81048bb74ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inc/includes.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/includes.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inc/stm32f4xx_it.h" beforeDir="false" afterPath="$PROJECT_DIR$/Inc/stm32f4xx_it.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame.uvoptx" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame.uvoptx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame.uvprojx" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame.uvprojx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/RM_frame.axf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/RM_frame.axf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/RM_frame.build_log.htm" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/RM_frame.build_log.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/RM_frame_RM_frame.dep" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/RM_frame_RM_frame.dep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/adc.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/adc.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/adc.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/adc.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/adc.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/adc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/autoaimtask.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/autoaimtask.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/autoaimtask.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/autoaimtask.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/autoaimtask.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/autoaimtask.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/bsp_imu.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/bsp_imu.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/bsp_imu.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/bsp_imu.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/bsp_imu.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/bsp_imu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/can.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/can.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/can.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/can.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/can.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/can.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/cantask.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/cantask.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/cantask.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/cantask.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/cantask.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/cantask.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/cap2controltask.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/cap2controltask.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/cap2controltask.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/cap2controltask.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/cap2controltask.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/cap2controltask.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/controltask.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/controltask.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/controltask.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/controltask.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/controltask.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/controltask.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/dac.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/dac.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/dac.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/dac.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/dac.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/dac.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/dma.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/dma.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/dma.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/dma.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/dma.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/dma.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/functiontask.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/functiontask.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/functiontask.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/functiontask.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/functiontask.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/functiontask.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/gpio.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/gpio.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/gpio.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/gpio.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/gpio.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/gpio.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/iwdg.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/iwdg.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/iwdg.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/iwdg.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/iwdg.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/iwdg.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/judgetask.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/judgetask.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/judgetask.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/judgetask.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/judgetask.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/judgetask.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/kalmanfilter.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/kalmanfilter.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/kalmanfilter.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/kalmanfilter.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/main.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/main.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/main.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/main.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/main.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/main.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/motortask.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/motortask.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/motortask.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/motortask.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/motortask.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/motortask.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/pid_regulator.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/pid_regulator.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/pid_regulator.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/pid_regulator.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/pid_regulator.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/pid_regulator.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/powerlimitationtask.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/powerlimitationtask.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/powerlimitationtask.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/powerlimitationtask.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/powerlimitationtask.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/powerlimitationtask.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/remotetask.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/remotetask.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/remotetask.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/remotetask.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/remotetask.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/remotetask.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/spi.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/spi.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/spi.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/spi.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/spi.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/spi.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/startup_stm32f427xx.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/startup_stm32f427xx.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc_ex.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc_ex.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_adc_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_can.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_can.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_can.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_can.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_can.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_can.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_cortex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_cortex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_cortex.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_cortex.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_cortex.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_cortex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac_ex.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac_ex.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dac_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma_ex.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma_ex.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_dma_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ex.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ex.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ramfunc.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ramfunc.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ramfunc.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ramfunc.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ramfunc.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_flash_ramfunc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_gpio.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_gpio.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_gpio.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_gpio.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_gpio.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_gpio.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_iwdg.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_iwdg.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_iwdg.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_iwdg.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_iwdg.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_iwdg.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_msp.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_msp.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_msp.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_msp.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_msp.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_msp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr_ex.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr_ex.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_pwr_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc_ex.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc_ex.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_rcc_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_spi.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_spi.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_spi.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_spi.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_spi.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_spi.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim_ex.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim_ex.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim_ex.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim_ex.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim_ex.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_tim_ex.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_uart.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_uart.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_uart.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_uart.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_uart.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_hal_uart.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_it.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_it.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_it.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_it.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_it.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/stm32f4xx_it.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/system_stm32f4xx.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/system_stm32f4xx.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/system_stm32f4xx.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/system_stm32f4xx.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/system_stm32f4xx.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/system_stm32f4xx.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/tim.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/tim.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/tim.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/tim.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/tim.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/tim.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/usart.crf" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/usart.crf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/usart.d" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/usart.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RM_frame/usart.o" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RM_frame/usart.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MDK-ARM/RTE/_RM_frame/RTE_Components.h" beforeDir="false" afterPath="$PROJECT_DIR$/MDK-ARM/RTE/_RM_frame/RTE_Components.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RM_frame.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/RM_frame.ioc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/dma.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/dma.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/stm32f4xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/stm32f4xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Src/usart.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/usart.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Inc/ControlTask.h" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Inc/ControlTask.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Inc/FunctionTask.h" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Inc/FunctionTask.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Inc/JudgeTask.h" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Inc/JudgeTask.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Inc/MotorTask.h" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Inc/MotorTask.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Inc/PowerLimitationTask.h" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Inc/PowerLimitationTask.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Src/AutoAimTask.c" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Src/AutoAimTask.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Src/CANTask.c" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Src/CANTask.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Src/ControlTask.c" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Src/ControlTask.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Src/FunctionTask.c" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Src/FunctionTask.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Src/JudgeTask.c" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Src/JudgeTask.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Src/MotorTask.c" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Src/MotorTask.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Src/PowerLimitationTask.c" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Src/PowerLimitationTask.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Src/RemoteTask.c" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Src/RemoteTask.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/Src/bsp_imu.c" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/Src/bsp_imu.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kmcaZ9YD4gPoXSTk9ncpWHdMLU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.cidr.embedded.config" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c4a2385-1d85-4dfe-9785-a81048bb74ed" name="Default Changelist" comment="" />
+      <created>1606309275553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606309275553</updated>
+      <workItem from="1606309277582" duration="1599000" />
+      <workItem from="1606500594836" duration="1083000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606501426734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1089" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606501426734" />
+    <state x="506" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606501466701">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606501466701" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606501423311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606501423311" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1606501637923">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606501637923" />
+  </component>
+</project>
